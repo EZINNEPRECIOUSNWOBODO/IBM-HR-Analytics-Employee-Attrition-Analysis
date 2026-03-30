@@ -37,8 +37,8 @@ The main objectives of this analysis are:
 
 ## 🛠️ Tools & Technologies
 
-* **Data Analysis:** SQL / Python (Pandas, NumPy) *(adjust based on what you used)*
-* **Data Visualization:** Power BI / Tableau / Matplotlib / Seaborn *(adjust accordingly)*
+* **Data Analysis:** Excel
+* **Data Visualization:** Tableau 
 * **Data Cleaning & Preparation**
 
 ---
