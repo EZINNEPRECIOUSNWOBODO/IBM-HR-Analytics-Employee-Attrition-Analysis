@@ -1,8 +1,4 @@
-# IBM-HR-Analytics-Employee-Attrition-Analysis
-This project explores employee attrition using the IBM HR Analytics Employee Attrition dataset (Kaggle). The goal is to identify the key factors driving employee turnover and provide actionable insights to improve employee retention
 
-
----
 
 # 👩‍💼 IBM HR Analytics – Employee Attrition Analysis
 
